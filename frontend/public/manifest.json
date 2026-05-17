@@ -1,0 +1,16 @@
+{
+  "short_name": "Teams Accessibility",
+  "name": "Teams Accessibility Tool - Real-Time Captioning and ASL Support",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6264A7",
+  "background_color": "#667eea",
+  "description": "Real-time captioning and ASL support for deaf and hard-of-hearing users during online meetings"
+}
