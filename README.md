@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Teams Accessibility Tool – Real-Time Captioning and ASL Support
 
 A modern web application that provides real-time speech-to-text captions and simplified ASL text for deaf and hard-of-hearing users during online meetings.
@@ -136,3 +137,6 @@ The application converts standard English to simplified ASL text by:
 ## License
 
 MIT License - see LICENSE file for details
+=======
+# Teams-Accessibility-Tool
+>>>>>>> ef4342fbc5967ec090f57b3250e9cab8a5918ed7
